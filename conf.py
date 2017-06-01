@@ -17,16 +17,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Your Name"  # (translatable)
-BLOG_TITLE = "Demo Site"  # (translatable)
+BLOG_AUTHOR = "YeOldeDM"  # (translatable)
+BLOG_TITLE = "Let's Godot Roguelike"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://example.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = ""
+BLOG_DESCRIPTION = "This is a series tutorial on how to make a roguelike in Godot."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "bootstrap1"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
